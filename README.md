@@ -2,6 +2,20 @@
 handle auth login and sign up using react js express windicss and postgreSQL for database 
 read this for detailed project : https://medium.com/@zenahmad06/handle-login-and-register-cookie-based-30067e3d9ffb
 
+# POSTGREE SQL
+
+## 1. INSTALLING POSTGREESQL
+
+- visit this link : https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
+- download it and then install
+
+## CONNECT POSTGRESQL VIA VS CODE
+
+- Install the extension "PostgreSQL by microsoft"
+- and then cntrl+shift+P, and write "new connection" and fill this in each input form
+	- hostname : for local you can write "localhost"
+	- USER : postgres
+	- Database : postgres
 	- password : pasword that you fill in the installing process before
 	- port : the default is 5432 or based on port that you use in installing process
 
